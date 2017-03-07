@@ -1,0 +1,5 @@
+-include $(applications_src_dir)/libdnet-1.11/libdnet.mk
+-include $(applications_src_dir)/pcre-8.34/pcre.mk
+-include $(applications_src_dir)/daq-2.0.6/daq.mk
+-include $(applications_src_dir)/zlib-1.2.11/zlib.mk
+-include $(applications_src_dir)/snort-2.9.9.0/snort.mk
